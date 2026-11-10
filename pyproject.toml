@@ -1,0 +1,12 @@
+[project]
+name = "fmarc-ai-leaderboard"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain>=1.4.9",
+    "langchain-openrouter>=0.2.9",
+    "pypdf>=7.0.1",
+    "streamlit>=1.67.0",
+]
